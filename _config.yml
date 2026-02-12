@@ -1,0 +1,13 @@
+title: "My Outstanding Jekyll Site"
+email: "info@example.com"
+description: "Official portal inspired by modern government and broadcast platforms"
+baseurl: ""
+url: "https://example.com"
+
+theme: minima
+plugins:
+  - jekyll-sitemap
+  - jekyll-feed
+
+exclude:
+  - README.md
